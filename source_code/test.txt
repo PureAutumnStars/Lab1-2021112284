@@ -1,1 +1,3 @@
 这是一个测试文本 --version 1.0 --time 9:20
+
+测试 VS_code IDE 的 Git 文件管理 --version 3.0 --time 20:39
